@@ -6,5 +6,5 @@
 ### Discord Log
 ![rHue8eOkGv](https://github.com/user-attachments/assets/758db374-77eb-4105-8e6f-94abd414a11c)
 
-### Desktop Notification
+### Desktop Notifications
 ![yKQ6A2uKKz](https://github.com/user-attachments/assets/43478c66-9d18-4918-90a2-cc2b6806e85e)
