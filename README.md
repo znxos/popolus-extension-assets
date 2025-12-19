@@ -1,0 +1,1 @@
+# popolus-extension-assets
